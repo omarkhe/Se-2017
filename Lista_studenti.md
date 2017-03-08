@@ -27,10 +27,11 @@ Grupa: 1221F
 |19) SANDU V. Raluca|https://github.com/ralucasandu
 |20) SIMULEAC Gh. Ioana - Veronica|https://github.com/ioanasimuleac
 |21) ŞTEFAN R. Cipriana - Elena|https://github.com/ciprianaelena
-|22) TILOUCHE Hassen|https://github.com/TILOUCHEHASSEN
-|23) VIŞAN J. Andrei|https://github.com/andreyy03
-|24) YAHMADI Seifeddine|https://github.com/yahmadi
-|25) ZAOUI Sofiane|https://github.com/zaouisoufien
+|22) STUPARU Şt.L. Andrei-Cristi|andrei-stuparu
+|23) TILOUCHE Hassen|https://github.com/TILOUCHEHASSEN
+|24) VIŞAN J. Andrei|https://github.com/andreyy03
+|25) YAHMADI Seifeddine|https://github.com/yahmadi
+|26) ZAOUI Sofiane|https://github.com/zaouisoufien
 
 Grupa: 1220F
 ============
