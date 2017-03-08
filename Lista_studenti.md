@@ -40,7 +40,7 @@ Grupa: 1220F
 |---------------|--------------|
 |1) Andronie Bianca| https://github.com/biancaandronie|
 |2) Bărbuliceanu Rodica|https://github.com/rodica-mateib|
-|3) Bour Mohamed| 
+|3) Bour Mohamed| https://github.com/BourAbdelhadi/SE/tree/master/TP1|
 |4) Călin Elena-Lavinia| https://github.com/LaviniaCalin|
 |5) Ciobanu Alin| https://github.com/CiobanuAlin |
 |6) Covor Sorin| https://github.com/CovorSorin |
