@@ -10,8 +10,8 @@ Grupa 1221F
 |<ol><li>Irimescu Andra </li><li>Andreea Dan</li><li>Irina Oancia</li><li>Isabella Mihai </li></ol> |Raft|[https://raft.github.io/]|
 |<ol><li>Andrei Stuparu </li><li>Alex Dragu</li><li>Braica Oana Valentina </li><li>Manea Gabriela</ol>|Micropython|
 |<ol><li>Moroianu Nicoleta</li><li>Raluca Sandu </li><li>Claudia Dumitru </li></ol>|Simulation d'un carrefour urbain|[https://en.wikipedia.org/wiki/Traffic_simulation]|
-|<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs|
-|<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs||
+|<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs|[https://youtu.be/h09XU8t8eUM] 🎥 🇬🇧|
+|<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs|[https://fr.wikipedia.org/wiki/Jeu_du_moulin]|
 |<ol><li>Cladoveanu Bogdan</li><li>Visan Andrei</li></ol>|Sudoku|[https://fr.wikipedia.org/wiki/Sudoku], [https://github.com/adafruit/Python-Thermal-Printer/blob/master/sudoku-txt.py]|
 Grupa 1220F
 ===========
