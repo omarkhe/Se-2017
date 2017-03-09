@@ -8,7 +8,7 @@ Grupa 1221F
 |<ol><li>Cristea Radu</li><li>Alex Coresciuc </li><li>Roxana Mare</ol> | Labyrinthe |[https://youtu.be/rop0W4QDOUI] 🎥 🇬🇧 [https://youtu.be/kF7KlThoT9w] 🎥 🇬🇧  [https://github.com/mikepound/mazesolving] |
 |<ol><li>Ioana Simuleac </li><li>Alexandra Ciubuc</li><li>Stefan Cipriana</ol>| Simulation d'une piste d'un aéroport avec fils d'éxecution| |
 |<ol><li>Irimescu Andra </li><li>Andreea Dan</li><li>Irina Oancia</li><li>Isabella Mihai </li></ol> |Raft|[https://raft.github.io/]|
-|<ol><li>Andrei Stuparu </li><li>Alex Dragu</li><li>Braica Oana Valentina </li><li>Manea Gabriela</ol>|Micropython|
+|<ol><li>Andrei Stuparu </li><li>Alex Dragu</li><li>Braica Oana Valentina </li><li>Manea Gabriela</ol>|Micropython|https://micropython.org,https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html,https://github.com/micropython/micropython/tree/master/esp8266|
 |<ol><li>Moroianu Nicoleta</li><li>Raluca Sandu </li><li>Claudia Dumitru </li></ol>|Simulation d'un carrefour urbain|[https://en.wikipedia.org/wiki/Traffic_simulation]|
 |<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs|[https://youtu.be/h09XU8t8eUM] 🎥 🇬🇧|
 |<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs|[https://fr.wikipedia.org/wiki/Jeu_du_moulin]|
