@@ -12,6 +12,6 @@ Grupa 1221F
 |<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs|[https://youtu.be/h09XU8t8eUM] 🎥 🇬🇧|
 |<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs|[https://fr.wikipedia.org/wiki/Jeu_du_moulin]|
 |<ol><li>Cladoveanu Bogdan</li><li>Visan Andrei</li></ol>|Sudoku|[https://fr.wikipedia.org/wiki/Sudoku]|
-|<ol><li>Dragu Alexandru</li><li>Manea Gabriela</li></ol>|ESP8266 Micropython - Point d'Acces WiFi en mode pont|[https://micropython.org/]|
+|<ol><li>Dragu Alexandru</li><li>Manea Gabriela</li></ol>|ESP8266 Micropython - Point d'Acces WiFi en mode pont|[https://micropython.org/], [https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html],[https://github.com/micropython/micropython/tree/master/esp8266]|
 Grupa 1220F
 ===========
