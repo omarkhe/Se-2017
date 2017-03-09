@@ -12,6 +12,6 @@ Grupa 1221F
 |<ol><li>Moroianu Nicoleta</li><li>Raluca Sandu </li><li>Claudia Dumitru </li></ol>|Simulation d'un carrefour urbain|
 |<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs|
 |<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs||
-
+|<ol><li>Cladoveanu Bogdan</li><li>Visan Andrei</li></ol>|Sudoku|[https://fr.wikipedia.org/wiki/Sudoku], [https://github.com/adafruit/Python-Thermal-Printer/blob/master/sudoku-txt.py]|
 Grupa 1220F
 ===========
