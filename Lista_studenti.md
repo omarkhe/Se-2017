@@ -60,7 +60,7 @@ Grupa: 1220F
 |20) Stanciu Melania| https://github.com/melaniaionela/ProjetSE|
 |21) Stancu Catalin| https://github.com/catalin-stancu|
 |22) Stănescu Vlad| https://github.com/stanescuvlad|
-|23) Yazdanian Amir| https://github.com/YazdanianAmir|
+|23) Yazdanian Amir| https://github.com/YazdanianAmir||
 											
 
 
