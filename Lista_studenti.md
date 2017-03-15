@@ -17,8 +17,8 @@ Grupa: 1221F
 |9) DISCULŢU I. Cristina - Alexandra|https://github.com/DiscultuCristina
 |10) DRAGU T. Alexandru-Horia|https://github.com/alexdrg
 |11) DUMITRU M.F. Claudia-Angela|https://github.com/ClaudiaDumitru
-|12) IRIMESCU A. Andra-Daniela|https://github.com/andra3004|
-|13) KHEMIRI Khaled|https://github.com/Khaledkhemiri|
+|12) IRIMESCU A. Andra-Daniela|https://github.com/andra3004
+|13) KHEMIRI Khaled|https://github.com/Khaledkhemiri
 |14) MANEA S. Steluţa-Gabriela |http://github.com/Gabriela2504
 |15) MARE D. Elena-Roxana|https://github.com/RoxanaMare
 |16) MIHAI S. Isabela - Elena|https://github.com/isabelamihai
