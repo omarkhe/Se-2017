@@ -28,3 +28,4 @@ Grope 1220F
 |<ol><li>Covor Sorin</li><li>Stanescu Vlad</li><li>Rusu Bogdan</li></ol>|No.8: Simulation d'un carrefour urbain - voitures et feux, avec fils d'éxecution Equipe||
 |<ol><li>Patru Marius</li><li>Mocanu Stefania</li></ol>|Nr 7: belote ||
 |<ol><li>Ioana Dumitrache </li><li>Alin Ciobanu</li></ol>|No.5: le jeu de Bridge en ligne avec plusieurs joueurs. Equipe: ||
+|<ol><li>Stanciu Melania </li><li>Yazdanian Amir</li><li>Bour Mohamed </li></ol>|NR 15 ESP8266 Micropython|
