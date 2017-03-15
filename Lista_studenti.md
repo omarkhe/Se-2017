@@ -57,9 +57,12 @@ Grupa: 1220F
 |17) Petre Timotei | https://github.com/Timi12|
 |18) Răutu Alexandra| https://github.com/alexandrarautu|
 |19) Rusu Bogdan|  https://github.com/rusubogdan12|
-|20) Stanciu Melania| 
+|20) Stanciu Melania| https://github.com/melaniaionela/ProjetSE|
 |21) Stancu Catalin| https://github.com/catalin-stancu|
 |22) Stănescu Vlad| https://github.com/stanescuvlad|
-|23) Yazdanian Amir| 
+|23) Yazdanian Amir| 23	Yazdanian Amir	https://github.com/YazdanianAmir
+https://github.com/melaniaionela/ProjetSE|
+											
+
 
 
