@@ -7,13 +7,13 @@ Grope 1221F
 |--------------|--------------------|-------------------|
 |<ol><li>Cristea Radu</li><li>Alex Coresciuc </li><li>Roxana Mare</ol> | Labyrinthe |https://github.com/RoxanaMare/Micro_Projet_SE_Labirinth |
 |<ol><li>Ioana Simuleac </li><li>Alexandra Ciubuc</li><li>Stefan Cipriana</ol>| Simulation d'une piste d'un aéroport avec fils d'éxecution|https://github.com/CiubucAlexandra/MicroProjet-Simulation-d-une-piste-d-un-aeroport-avec-fils-d-execution |
-|<ol><li>Irimescu Andra </li><li>Andreea Dan</li><li>Irina Oancia</li><li>Isabella Mihai </li></ol> |Raft|[https://raft.github.io/]||
-|<ol><li>Moroianu Nicoleta</li><li>Raluca Sandu </li><li>Claudia Dumitru </li></ol>|Simulation d'un carrefour urbain|[https://en.wikipedia.org/wiki/Traffic_simulation]|
-|<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs|[https://youtu.be/h09XU8t8eUM] 🎥 🇬🇧|
-|<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs|[https://fr.wikipedia.org/wiki/Jeu_du_moulin]|
+|<ol><li>Irimescu Andra </li><li>Andreea Dan</li><li>Irina Oancia</li><li>Isabella Mihai </li></ol> |Raft||
+|<ol><li>Moroianu Nicoleta</li><li>Raluca Sandu </li><li>Claudia Dumitru </li></ol>|Simulation d'un carrefour urbain||
+|<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs||
+|<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs||
 |<ol><li>Cladoveanu Bogdan</li><li>Visan Andrei</li></ol>|Sudoku|https://github.com/1Bogdan96/Micro-travaux-Sudoku|
 |<ol><li>Dragu Alexandru</li><li>Manea Gabriela</li><li>Stuparu Andrei</li><li>Braica Valentina</li></ol>|ESP8266 Micropython - Point d'Acces WiFi en mode pont|https://github.com/val3n71na/Micro_Projet_SE_ESP8266-Micropython---Point-d-Acces-WiFi-en-mode-pont|
-|<ol><li>KHEMIRI Khaled</li><li>YAHMADI Seifeddine</li><li>ZAOUI Sofiane</li></ol>|Simulation d'un carrefour urbain|[https://en.wikipedia.org/wiki/Traffic_simulation]||
+|<ol><li>KHEMIRI Khaled</li><li>YAHMADI Seifeddine</li><li>ZAOUI Sofiane</li></ol>|Simulation d'un carrefour urbain||
 
 
 Grope 1220F
