@@ -1,0 +1,76 @@
+2017-03-22 20:52:16,977 INFO Main start
+
+2017-03-22 20:52:17,008 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mlle. Eleanor')
+
+2017-03-22 20:52:17,008 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mlle. Anna Karenina')
+
+2017-03-22 20:52:17,008 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mlle. Francesca')
+
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour Mlle. Eleanor = Bonjour Mlle. Eleanor !
+
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour Mlle. Anna Karenina = Bonjour Mlle. Anna Karenina !
+
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour Mlle. Francesca = Bonjour Mlle. Francesca !
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mme. Leela')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mme. Amy Wong')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mme. Mom')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'Mme. LaBarbara Conrad')
+
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour Mme. Leela = Bonjour Mme. Leela !
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour Mme. LaBarbara Conrad = Bonjour Mme. LaBarbara Conrad !
+
+2017-03-22 20:52:17,040 INFO Process-2 says that dites_bonjour Mme. Amy Wong = Bonjour Mme. Amy Wong !
+
+2017-03-22 20:52:17,040 INFO Process-3 says that dites_bonjour Mme. Mom = Bonjour Mme. Mom !
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Fry')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Bender')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Hermes Conrad')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Hubert J. Farnsworth')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. John A. Zoidberg')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, "M. Richard Nixon's head")
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Zapp Brannigan')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 
+'M. Kif Kroker')
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Nibbler')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Scruffy')
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Leo Wong')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Lrrr')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Cubert Farnsworth')
+
+2017-03-22 20:52:17,040 INFO (<function dites_bonjour at 0x7f5598d7a320>, 'M. Dwight Conrad')
+
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour M. Fry = Bonjour M. Fry !
+
+2017-03-22 20:52:17,040 INFO Process-2 says that dites_bonjour M. Bender = Bonjour M. Bender !
+
+2017-03-22 20:52:17,040 INFO Process-3 says that dites_bonjour M. Hubert J. Farnsworth = Bonjour M. Hubert J. Farnsworth !
+
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour M. John A. Zoidberg = Bonjour M. John A. Zoidberg !
+
+2017-03-22 20:52:17,040 INFO Process-2 says that dites_bonjour M. Richard Nixon's head = Bonjour M. Richard Nixon's head !
+
+2017-03-22 20:52:17,040 INFO Process-4 says that dites_bonjour M. Hermes Conrad = Bonjour M. Hermes Conrad !
+2017-03-22 20:52:17,040 INFO Process-3 says that dites_bonjour M. Zapp Brannigan = Bonjour M. Zapp Brannigan !
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour M. Kif Kroker = Bonjour M. Kif Kroker !
+2017-03-22 20:52:17,040 INFO Process-2 says that dites_bonjour M. Nibbler = Bonjour M. Nibbler !
+2017-03-22 20:52:17,040 INFO Process-4 says that dites_bonjour M. Scruffy = Bonjour M. Scruffy !
+2017-03-22 20:52:17,040 INFO Process-3 says that dites_bonjour M. Leo Wong = Bonjour M. Leo Wong !
+2017-03-22 20:52:17,040 INFO Process-1 says that dites_bonjour M. Lrrr = Bonjour M. Lrrr !
+2017-03-22 20:52:17,040 INFO Process-2 says that dites_bonjour M. Cubert Farnsworth = Bonjour M. Cubert Farnsworth !
+2017-03-22 20:52:17,040 INFO Process-4 says that dites_bonjour M. Dwight Conrad = Bonjour M. Dwight Conrad !
+2017-03-22 20:52:17,040 INFO Main stop
