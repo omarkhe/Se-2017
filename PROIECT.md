@@ -1,4 +1,4 @@
-| Nr. proiect | Listă nume, prenume membri echipă de proiect |
+| Nr. proiect | Listă nume, prenume membri echipă de proiect si grupa|
 |-------------|---------------------------------------------|
 |13|Alex Coresciuc,Mare Roxana, Cristea Radu 1221 |
 |14| Braica Valentina-Ioana, Dragu Alexandru Horia, Manea Steluta Gabriela, Stuparu Andrei Cristi 1221 | 
