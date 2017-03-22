@@ -25,7 +25,7 @@ Grope 1220F
 |<ol><li>Barbuliceanu-Matei Rodica </li><li>Fundulea Laura</li></ol> |No.2: Le jeux Misère en ligne avec plusieurs joueurs|https://github.com/rodica-mateib/Projet-SE|
 |<ol><li>Calin Lavinia</li><li>Andronie Bianca</li></ol>|No1. Sudoku|https://github.com/biancaandronie/MicroTravaux-SE|
 |<ol><li>Neagu Maria</li><li>Rautu Alexandra </li><li>Stancu Catalin</li></ol>|Génération et solution d'un labyrinthe avec fils d'éxecution |https://github.com/catalin-stancu/MicroTravaux-SE|
-|<ol><li>Covor Sorin</li><li>Stanescu Vlad</li><li>Rusu Bogdan</li></ol>|No.8: Simulation d'un carrefour urbain - voitures et feux, avec fils d'éxecution Equipe||
+|<ol><li>Covor Sorin</li><li>Stanescu Vlad</li><li>Rusu Bogdan</li></ol>|No.8: Simulation d'un carrefour urbain - voitures et feux, avec fils d'éxecution Equipe|https://github.com/CovorSorin/Projet-SE|
 |<ol><li>Patru Marius</li><li>Mocanu Stefania</li></ol>|Nr 7: belote |https://github.com/StefaniaMocanu/Projet-no-7-SE|
 |<ol><li>Ioana Dumitrache </li><li>Alin Ciobanu</li></ol>|No.5: le jeu de Bridge en ligne avec plusieurs joueurs. Equipe: |https://github.com/ioanadumitrache/Micro-Projet-SE|
 |<ol><li>Stanciu Melania </li><li>Yazdanian Amir</li><li>Bour Mohamed </li></ol>|NR 15 ESP8266 Micropython|https://github.com/melaniaionela/ProjetSE|
