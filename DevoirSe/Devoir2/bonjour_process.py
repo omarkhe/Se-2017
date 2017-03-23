@@ -1,13 +1,5 @@
-"""
-Le premier prgramme en Python
-* utilisation des arguments de la lignne de commande
-* les processus
-* le logger
-@author Dragos STOICA
-@version 0.6
-@date 17.feb.2014
-"""
 
+"Cladoveanu Bogdan"
 import time
 import random
 import logging
