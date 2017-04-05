@@ -10,7 +10,7 @@ Grope 1221F
 |<ol><li>Irimescu Andra </li><li>Andreea Dan</li><li>Irina Oancia</li><li>Isabella Mihai </li></ol> |Raft||
 |<ol><li>Moroianu Nicoleta</li><li>Raluca Sandu </li><li>Claudia Dumitru </li></ol>|Simulation d'un carrefour urbain|https://github.com/nicoomp20/Moroianu-Nicoleta-Micro-projet-Simulation-d-un-carrefour-urbain |
 |<ol><li>Tilouche Hasse</li><li>Dinca Mihai </li></ol>|Le jeux Misère en ligne avec plusieurs joueurs||
-|<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs||
+|<ol><li>Chila Monica</li><li>Discultu Crisna</li></ol>|Le jeux du Moulin en ligne avec plusieurs joueurs|https://github.com/ChilaMonicaDiana/SE-Micro-Projet-Le-jeux-du-Moulin-en-ligne-avec-plusieurs-joueurs|
 |<ol><li>Cladoveanu Bogdan</li><li>Visan Andrei</li></ol>|Sudoku|https://github.com/1Bogdan96/Micro-travaux-Sudoku |
 |<ol><li>Dragu Alexandru</li><li>Manea Gabriela</li><li>Stuparu Andrei</li><li>Braica Valentina</li></ol>|ESP8266 Micropython - Point d'Acces WiFi en mode pont|https://github.com/val3n71na/Micro_Projet_SE_ESP8266-Micropython---Point-d-Acces-WiFi-en-mode-pont |
 |<ol><li>KHEMIRI Khaled</li><li>YAHMADI Seifeddine</li><li>ZAOUI Sofiane</li></ol>|Simulation d'un carrefour urbain||
