@@ -45,12 +45,12 @@ Grupa: 1220F
 |5) Ciobanu Alin| https://github.com/CiobanuAlin 
 |6) Covor Sorin| https://github.com/CovorSorin 
 |7) Dobrescu Alexandra| https://github.com/AlexandraDobrescu
-|8) Dragomir Gabriel
+|8) Dragomir Gabriel |https://github.com/gabrieldragomir/Devoir
 |9) Dumitrache Ioana| https://github.com/ioanadumitrache 
 |10) Felciuc Vlad|https://github.com/AlexandraDobrescu/Devoirs-SE/projects
 |11) Fundulea-Timofte Laura|  https://github.com/laura-ft
 |12) Iliuță Miruna- Elena| https://github.com/mirunailiuta
-|13) Khemiri Omar
+|13) Khemiri Omar |Https://github.com/omarkhe 
 |14) Mocanu Stefania| https://github.com/StefaniaMocanu
 |15) Neagu Maria| https://github.com/marianeagu
 |16) Pătru Marius| https://github.com/patrumarius
